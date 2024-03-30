@@ -27,7 +27,8 @@ export default [
     ],
     external: [
       'react',
-      'react-dom'
+      'react-dom',
+      'react/jsx-runtime'
     ]
   },
 ];

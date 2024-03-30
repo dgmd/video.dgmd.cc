@@ -1,4 +1,4 @@
 
 export {
-  VideoComponent
-} from './Video.js';
+  Video
+} from './Video.jsx';
